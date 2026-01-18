@@ -1,0 +1,19 @@
+{
+  "name": "basic_01",
+  "version": "1.0.0",
+  "description": "Basic Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Basic",
+    "Node"
+  ],
+  "author": "Gaurav Khatik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
